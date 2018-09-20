@@ -13,3 +13,4 @@ theinternet:
   default_browser: :chrome
   username: tomsmith
   password: SuperSecretPassword!
+  headless: false
